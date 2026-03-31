@@ -1,4 +1,5 @@
 # 👋 Hi, I'm James (pr0xxy)
+![Profile Views](https://komarev.com/ghpvc/?username=pr0xxy&color=blue)
 
 ## 🚀 DevSecOps Engineer
 
