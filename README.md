@@ -10,7 +10,7 @@ I build secure, scalable CI/CD pipelines and enterprise container platforms.
 ## 🔧 Tech Stack
 
 - CI/CD: GitHub Actions, GitLab CI
-- Cloud: Azure
+- Cloud: Azure, AWS and Google Cloud
 - Containers: Docker
 - Security: SAST, Secret Detection
 - Automation: Python, Bash
